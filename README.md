@@ -13,3 +13,11 @@ Nail Scope is a web-based system that helps in early diagnosis of nail-based dis
 ### Additional Information
 
 This project utilizes a hybrid model approach that combines SGD classifier for classification and DensNet201 for feature extraction.
+
+### team
+
+- Maram Alfaraj
+- Dalia Alzahrani
+- Rahaf Alhajri
+- Nouf ALAli
+- Danah Alotaibi
